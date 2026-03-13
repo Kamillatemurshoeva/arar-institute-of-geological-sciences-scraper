@@ -1,5 +1,5 @@
 
-# ARAR Collection 18 Scraper
+# ARAR Collection 18 Scraper — Publications of the Institute of Geological Sciences of NAS RA 
 
 This repository contains a Python scraper designed to extract **metadata from the Pan-Armenian Digital Library (ARAR)**.
 
